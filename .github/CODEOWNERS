@@ -1,0 +1,5 @@
+# Set default owner(s) for everything:
+*       @Zakoroo
+
+# Critical paths (example: require your leads or a team)
+docs/               @Zakoroo
