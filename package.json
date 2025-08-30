@@ -1,0 +1,41 @@
+{
+  "name": "agile-project",
+  "version": "1.0.0",
+  "description": "This repository follows our team's Coding Policy & Code Review process. ## Quick links - [Coding Policy](docs/CODING_POLICY.md) - [Contributing Guide](docs/CONTRIBUTING.md) - [PR Template](.github/pull_request_template.md) ## Getting started 1) Create a feature branch: 2) Commit with Conventional Commits (e.g., ) 3) Open a Pull Request into  and request reviewers",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zakoroo/agile-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zakoroo/agile-project/issues"
+  },
+  "homepage": "https://github.com/Zakoroo/agile-project#readme",
+  "type": "module",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "@types/node": "^24.3.0",
+    "@typescript-eslint/eslint-plugin": "^8.41.0",
+    "@typescript-eslint/parser": "^8.41.0",
+    "eslint": "^9.34.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.4",
+    "globals": "^16.3.0",
+    "jest": "^30.1.1",
+    "prettier": "^3.6.2",
+    "ts-jest": "^29.4.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2",
+    "typescript-eslint": "^8.41.0"
+  }
+}
