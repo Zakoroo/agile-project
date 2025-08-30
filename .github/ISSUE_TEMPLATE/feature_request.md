@@ -11,6 +11,7 @@ What problem are we solving?
 What should we build?
 
 **Acceptance Criteria**
+
 - [ ] …
 
 **Notes**
