@@ -8,6 +8,7 @@ labels: bug
 A clear description.
 
 **Steps to reproduce**
+
 1. …
 2. …
 

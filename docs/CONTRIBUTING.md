@@ -9,4 +9,5 @@
 7. Squash & merge when approved; delete your branch.
 
 ## Risky changes
+
 - Security-related, DB schema, or public APIs require **2 reviewers** and CODEOWNERS approval.

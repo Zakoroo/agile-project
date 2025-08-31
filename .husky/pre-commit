@@ -1,0 +1,8 @@
+#!/usr/bin/env sh
+# Run lint-staged only if there are staged files; skip otherwise.
+if git diff --cached --name-only --diff-filter=ACMR | grep -q .; then
+  npx lint-staged
+else
+  echo "pre-commit: no staged files, skipping lint-staged."
+  exit 0
+fi
